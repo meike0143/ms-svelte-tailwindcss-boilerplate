@@ -25,6 +25,3 @@ You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
 >
-
-## Packages and vulnerabilities
-Unfortunately, at this moment there are still 3 vulnerabilities in all the used packages of this project. They are already mentioned as a bug in the Tailwind and Sveltekit repo. Hopefully, they will address them soon.
